@@ -255,10 +255,10 @@ Create a new branch so you can check items like this, just put an x in the brack
 1. Mark all boxes with X after you completed your changes:
 
     ```bash
-    git commit -am "Marked personal progress"
-    git pull upstream main  # keep your fork up-to-date with changes from the original repo
+    git commit -am "Marked personal progress" x
+    git pull upstream main  # keep your fork up-to-date with changes from the original repo x
 
-    git push # just pushes to your fork
+    git push # just pushes to your fork x
     ```
 
 ## Don't feel you aren't smart enough
